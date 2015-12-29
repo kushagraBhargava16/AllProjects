@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 packages to &apos;CRUDByJSF/src&apos;&#x0D;&#x0A;- Original project: &apos;CRUDByJSP&apos;&#x0D;&#x0A;- Destination element: &apos;CRUDByJSF/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CRUDByJSP/src/com.yash.domain&#x0D;&#x0A;     CRUDByJSP/src/com.yash.service&#x0D;&#x0A;     CRUDByJSP/src/com.yash.util.util&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=CRUDByJSF/src" element1="/src&lt;com.yash.domain" element2="/src&lt;com.yash.service" element3="/src&lt;com.yash.util.util" flags="589830" fragments="3" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1448960401544" version="1.0"/>
+</session>

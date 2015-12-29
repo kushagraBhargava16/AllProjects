@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="com.yash.main.UserBean"/>
+<fullyQualifiedTypeName name="com.yash.main.ConnectionUtil"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.service.EmployeeServiceLocal"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.dao.EmployeeDao"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.util.ConnectionUtil"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.Select"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.dao.ManagerDao"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.service.ManagerServiceLocal"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Employee"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Project"/>
+<fullyQualifiedTypeName name="javax.faces.event.ValueChangeEvent"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Grade"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+<fullyQualifiedTypeName name="javax.faces.bean.SessionScoped"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.service.AdminServiceLocal"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.dao.AdminDao"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Manager"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Skill"/>
+<fullyQualifiedTypeName name="com.yash.EmployeeInformation.domain.Role"/>
+</qualifiedTypeNameHistroy>

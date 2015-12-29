@@ -1,0 +1,158 @@
+
+Dec 14, 2015 12:00:52.77 NEW SESSION
+Dec 14, 2015 12:00:52.77 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 12:14:55.72 1450075495744	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 14, 2015 13:15:03.45 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 14, 2015 13:40:53.43 NEW SESSION
+Dec 14, 2015 13:40:53.43 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 15:58:42.41 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 18:51:41.56 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 14, 2015 20:26:39.23 NEW SESSION
+Dec 14, 2015 20:26:39.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 20:27:04.37 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 20:27:37.79 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 20:35:55.18 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 14, 2015 20:44:07.82 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 15, 2015 10:52:52.69 NEW SESSION
+Dec 15, 2015 10:52:52.69 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 10:54:02.99 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 11:40:10.66 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 14:17:14.25 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 14:27:17.24 1450169837239	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 15, 2015 15:48:25.54 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 15:49:40.07 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 16:30:00.54 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 16:43:36.36 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 17:47:03.52 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 15, 2015 19:22:54.91 NEW SESSION
+Dec 15, 2015 19:22:54.91 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 15, 2015 19:33:17.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 16, 2015 10:36:04.64 NEW SESSION
+Dec 16, 2015 10:36:04.64 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 16, 2015 10:40:49.36 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 16, 2015 14:29:46.09 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 16, 2015 20:29:43.17 NEW SESSION
+Dec 16, 2015 20:29:43.17 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 16, 2015 20:59:39.12 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 17, 2015 10:59:11.40 NEW SESSION
+Dec 17, 2015 10:59:11.41 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 11:15:17.99 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 11:30:15.92 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 12:40:29.49 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 12:49:35.62 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 12:53:59.03 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 13:09:28.47 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 13:27:58.68 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 14:27:16.71 1450342636703	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Dec 17, 2015 16:37:43.80 NEW SESSION
+Dec 17, 2015 16:37:43.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 16:40:05.30 [Child 1688] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Dec 17, 2015 16:41:55.94 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 16:43:29.79 console.error: 
+Dec 17, 2015 16:43:29.79   Protocol error (noSuchActor): No such actor for ID: server1.conn0.profilerActor20
+
+Dec 17, 2015 17:12:12.78 NEW SESSION
+Dec 17, 2015 17:12:12.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 17:13:17.82 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 17:22:48.83 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 17:59:03.22 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 18:24:18.11 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 18:26:59.99 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 18:33:17.99 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 18:36:26.17 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 18:45:13.84 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 19:08:14.20 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 19:15:42.43 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 19:41:04.76 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 17, 2015 19:54:33.81 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 19:54:49.44 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 20:18:15.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 20:34:44.61 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 20:35:34.75 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 20:54:05.11 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 17, 2015 21:22:48.11 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 18, 2015 10:37:32.67 NEW SESSION
+Dec 18, 2015 10:37:32.67 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 18, 2015 11:53:07.06 NEW SESSION
+Dec 18, 2015 11:53:07.06 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 18, 2015 11:59:02.70 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 18, 2015 12:11:29.71 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 18, 2015 14:27:16.56 1450429036556	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Dec 21, 2015 11:02:34.87 NEW SESSION
+Dec 21, 2015 11:02:34.87 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 21, 2015 11:10:02.65 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 21, 2015 11:24:05.66 1450677245630	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 21, 2015 17:26:17.18 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 17:33:38.97 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 17:46:44.88 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 17:52:23.82 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 17:53:55.60 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 18:02:02.02 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 18:11:40.75 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 21, 2015 19:49:34.91 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 21, 2015 19:51:46.10 NEW SESSION
+Dec 21, 2015 19:51:46.10 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 21, 2015 19:58:08.22 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 22, 2015 10:58:16.72 NEW SESSION
+Dec 22, 2015 10:58:16.72 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 22, 2015 11:28:06.38 1450763886373	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 22, 2015 11:29:28.08 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 22, 2015 12:00:20.29 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 22, 2015 12:13:15.31 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 22, 2015 12:14:02.12 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 22, 2015 12:14:17.01 console.error: 
+Dec 22, 2015 12:14:17.01   Message: Error: Connection closed, pending request to server1.conn3.domstylerule54, type modifyProperties failed
+Dec 22, 2015 12:14:17.01 
+Dec 22, 2015 12:14:17.01 Request stack:
+Dec 22, 2015 12:14:17.01 Front<.request@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1178:7
+Dec 22, 2015 12:14:17.01 frontProto/</proto[name]@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1338:14
+Dec 22, 2015 12:14:17.01 RuleModificationList<.apply@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/styles.js:1499:12
+Dec 22, 2015 12:14:17.02 Rule.prototype.applyProperties@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/styleinspector/rule-view.js:649:32
+Dec 22, 2015 12:14:17.02 Rule.prototype.setPropertyValue@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/styleinspector/rule-view.js:720:5
+Dec 22, 2015 12:14:17.02 TextProperty.prototype.setValue@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/styleinspector/rule-view.js:1087:5
+Dec 22, 2015 12:14:17.02 TextPropertyEditor.prototype._onValueDone@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/styleinspector/rule-view.js:3513:5
+Dec 22, 2015 12:14:17.02 InplaceEditor.prototype._apply@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/shared/inplace-editor.js:806:1
+Dec 22, 2015 12:14:17.02 InplaceEditor.prototype._onBlur@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/shared/inplace-editor.js:863:5
+Dec 22, 2015 12:14:17.02 ToolSidebar.prototype.destroy<@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/framework/sidebar.js:514:7
+Dec 22, 2015 12:14:17.02 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Dec 22, 2015 12:14:17.03 TaskImpl@resource://gre/modules/Task.jsm:275:3
+Dec 22, 2015 12:14:17.03 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+Dec 22, 2015 12:14:17.03 InspectorPanel.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/inspector/inspector-panel.js:583:28
+Dec 22, 2015 12:14:17.03 Toolbox.prototype.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/framework/toolbox.js:1887:26
+Dec 22, 2015 12:14:17.03 
+Dec 22, 2015 12:14:17.03   Stack:
+Dec 22, 2015 12:14:17.03     Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1125:23
+Dec 22, 2015 12:14:17.03 StyleRuleFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/styles.js:1333:5
+Dec 22, 2015 12:14:17.03 Pool<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:820:9
+Dec 22, 2015 12:14:17.04 Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1127:5
+Dec 22, 2015 12:14:17.04 PageStyleFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/styles.js:962:5
+Dec 22, 2015 12:14:17.04 Pool<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:820:9
+Dec 22, 2015 12:14:17.04 Front<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/protocol.js:1127:5
+Dec 22, 2015 12:14:17.04 exports.InspectorFront<.destroy@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/inspector.js:3741:5
+Dec 22, 2015 12:14:17.04 Toolbox.prototype.destroyInspector/this._destroyingInspector<@resource://gre/modules/commonjs/toolkit/loader.js -> resource:///modules/devtools/framework/toolbox.js:1795:13
+Dec 22, 2015 12:14:17.04 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+Dec 22, 2015 12:14:17.05 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+Dec 22, 2015 12:14:17.05 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+Dec 22, 2015 12:14:17.05 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+Dec 22, 2015 12:14:17.05 
+Dec 22, 2015 12:14:52.82 console.warn: Asynchronous operation was aborted as selection changed.
+Dec 22, 2015 13:25:34.24 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 22, 2015 13:53:05.15 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Dec 22, 2015 16:06:54.78 NEW SESSION
+Dec 22, 2015 16:06:54.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 22, 2015 16:25:20.10 [GFX1]: D3D11 device creation failed: 0x887a0004
+Dec 22, 2015 16:29:13.17 [GFX1]: D3D11 device creation failed: 0x887a0004

@@ -1,0 +1,393 @@
+
+Oct 29, 2015 17:40:55.42 NEW SESSION
+Oct 29, 2015 17:40:55.42 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 29, 2015 17:58:07.02 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 29, 2015 18:04:29.46 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 30, 2015 16:33:21.27 NEW SESSION
+Oct 30, 2015 16:33:21.27 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 30, 2015 16:45:24.18 1446203724198	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Nov 02, 2015 10:23:42.83 NEW SESSION
+Nov 02, 2015 10:23:42.83 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 02, 2015 10:35:46.75 1446440746719	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 02, 2015 17:40:08.28 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 02, 2015 17:41:29.61 [Child 5016] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+
+Nov 03, 2015 11:36:56.03 NEW SESSION
+Nov 03, 2015 11:36:56.03 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 03, 2015 11:48:58.87 1446531538880	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Nov 03, 2015 14:57:43.60 NEW SESSION
+Nov 03, 2015 14:57:43.60 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 03, 2015 14:57:53.23 [GFX1]: D3D11 device creation failed0x887a0004
+
+Nov 03, 2015 14:59:38.88 NEW SESSION
+Nov 03, 2015 14:59:38.88 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 03, 2015 15:07:43.67 [GFX1]: D3D11 device creation failed0x887a0004
+
+Nov 03, 2015 20:07:14.90 NEW SESSION
+Nov 03, 2015 20:07:14.90 [GFX1]: D3D11 device creation failed0x887a0004
+
+Nov 03, 2015 20:32:37.12 NEW SESSION
+Nov 03, 2015 20:32:37.12 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 03, 2015 21:27:35.66 [GFX1]: D3D11 device creation failed0x887a0004
+
+Nov 04, 2015 10:48:23.64 NEW SESSION
+Nov 04, 2015 10:48:23.64 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 04, 2015 11:49:16.83 1446617956854	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Nov 07, 2015 11:04:28.62 NEW SESSION
+Nov 07, 2015 11:04:28.62 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 07, 2015 11:16:31.28 1446875191291	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Nov 09, 2015 10:04:51.43 NEW SESSION
+Nov 09, 2015 10:04:51.43 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 09, 2015 10:12:54.40 1447044174403	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 09, 2015 10:22:01.34 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 09, 2015 10:40:53.71 [GFX1]: D3D11 device creation failed0x887a0004
+Nov 09, 2015 17:44:52.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 10, 2015 09:45:19.24 NEW SESSION
+Nov 10, 2015 09:45:19.24 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 10, 2015 09:55:35.54 NEW SESSION
+Nov 10, 2015 09:55:35.54 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 10:10:20.17 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 10:14:23.05 1447130663060	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 10, 2015 10:20:28.95 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:30:27.40 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:38:10.63 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:38:20.34 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 10, 2015 11:41:01.67 NEW SESSION
+Nov 10, 2015 11:41:01.67 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:42:21.49 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:42:46.02 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:45:05.58 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:45:37.17 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:46:24.22 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 11:47:13.22 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 12:39:09.60 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 12:40:52.37 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 14:31:27.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 15:39:30.17 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 10, 2015 15:48:20.26 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 10, 2015 15:48:20.26 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 10, 2015 15:48:20.26 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 10, 2015 15:48:20.26 openCloseWindow@http://creative.admtpmp127.com/matomy/scripts/popunder/popunder.js:1:4764
+Nov 10, 2015 15:48:20.26 moveUnder@http://creative.admtpmp127.com/matomy/scripts/popunder/popunder.js:1:4526
+Nov 10, 2015 15:48:20.26 pop/listenerEvent@http://creative.admtpmp127.com/matomy/scripts/popunder/popunder.js:1:3987
+Nov 10, 2015 15:48:20.48 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 10, 2015 15:48:20.48 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 10, 2015 15:48:20.48 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 10, 2015 15:48:20.48 openCloseWindow/<@http://creative.admtpmp127.com/matomy/scripts/popunder/popunder.js:1:4854
+Nov 10, 2015 15:52:08.18 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 16, 2015 10:05:23.89 NEW SESSION
+Nov 16, 2015 10:05:23.89 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 10:17:26.76 1447649246757	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 16, 2015 13:47:35.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 13:48:03.52 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 13:49:35.94 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 14:30:50.76 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 14:33:21.29 [Child 4368] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Nov 16, 2015 16:00:56.83 Performance warning: Async animation disabled because frame size (11413, 10051) is bigger than the viewport (1620, 977) or the visual rectangle (11413, 10051) is larger than the max allowable value (17895698) [div with id 'second-bar']
+Nov 16, 2015 16:02:56.10 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 16, 2015 16:02:56.10 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 16, 2015 16:02:56.10 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 16, 2015 16:03:05.05 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 16, 2015 16:03:05.05 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 16, 2015 16:03:05.05 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 16, 2015 16:03:21.76 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 16, 2015 16:03:21.77 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 16, 2015 16:03:21.77 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 16, 2015 16:14:13.48 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 16, 2015 16:14:31.90 console.error: 
+Nov 16, 2015 16:14:31.91   Protocol error (noSuchActor): No such actor for ID: server1.conn0.profilerActor20
+Nov 16, 2015 16:34:18.15 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 16:35:01.92 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 16:35:54.62 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 16:36:15.07 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 16:46:43.46 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 16:47:25.09 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 16, 2015 17:11:39.94 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 17:11:41.24 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 17:11:41.48 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 17:11:42.34 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 17:11:43.75 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 17:11:44.04 [GFX1-]: Failed to allocate a surface due to invalid size Size(0,1)
+Nov 16, 2015 18:31:28.60 console.warn: Asynchronous operation was aborted as selection changed.
+
+Nov 17, 2015 10:06:22.68 NEW SESSION
+Nov 17, 2015 10:06:22.68 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 10:06:52.42 *************************
+Nov 17, 2015 10:06:52.90 A coding exception was thrown and uncaught in a Task.
+Nov 17, 2015 10:06:52.90 
+Nov 17, 2015 10:06:52.90 Full message: TypeError: this.Paths is null
+Nov 17, 2015 10:06:52.91 Full stack: Agent.write@resource:///modules/sessionstore/SessionWorker.js:196:9
+Nov 17, 2015 10:06:52.91 worker.dispatch@resource:///modules/sessionstore/SessionWorker.js:21:24
+Nov 17, 2015 10:06:52.91 anonymous/AbstractWorker.prototype.handleMessage@resource://gre/modules/workers/PromiseWorker.js:122:16
+Nov 17, 2015 10:06:52.91 @resource:///modules/sessionstore/SessionWorker.js:30:41
+Nov 17, 2015 10:06:52.91 
+Nov 17, 2015 10:06:52.91 *************************
+Nov 17, 2015 10:06:52.91 console.error: 
+Nov 17, 2015 10:06:52.92   Could not write session state file 
+Nov 17, 2015 10:06:52.92   Message: TypeError: this.Paths is null
+Nov 17, 2015 10:06:52.92   Stack:
+Nov 17, 2015 10:06:52.92     Agent.write@resource:///modules/sessionstore/SessionWorker.js:196:9
+Nov 17, 2015 10:06:52.92 worker.dispatch@resource:///modules/sessionstore/SessionWorker.js:21:24
+Nov 17, 2015 10:06:52.92 anonymous/AbstractWorker.prototype.handleMessage@resource://gre/modules/workers/PromiseWorker.js:122:16
+Nov 17, 2015 10:06:52.92 @resource:///modules/sessionstore/SessionWorker.js:30:41
+Nov 17, 2015 10:06:52.93 
+Nov 17, 2015 10:06:52.93   Agent.write@resource:///modules/sessionstore/SessionWorker.js:196:9
+Nov 17, 2015 10:06:52.93 worker.dispatch@resource:///modules/sessionstore/SessionWorker.js:21:24
+Nov 17, 2015 10:06:52.93 anonymous/AbstractWorker.prototype.handleMessage@resource://gre/modules/workers/PromiseWorker.js:122:16
+Nov 17, 2015 10:06:52.93 @resource:///modules/sessionstore/SessionWorker.js:30:41
+Nov 17, 2015 10:06:52.93 
+Nov 17, 2015 10:18:30.59 1447735710594	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 17, 2015 14:27:22.22 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 16:27:29.67 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 17:21:30.85 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 17:25:47.05 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 17:32:32.35 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 17:37:59.55 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 18:29:59.40 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 19:17:35.20 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 17, 2015 19:25:17.27 NEW SESSION
+Nov 17, 2015 19:25:17.27 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 19:32:05.71 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 17, 2015 19:34:50.05 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 17, 2015 20:44:54.12 NEW SESSION
+Nov 17, 2015 20:44:54.12 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 10:20:05.80 NEW SESSION
+Nov 18, 2015 10:20:05.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 10:32:08.87 1447822928855	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 18, 2015 10:44:41.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 10:47:05.23 NEW SESSION
+Nov 18, 2015 10:47:05.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 11:34:06.77 NEW SESSION
+Nov 18, 2015 11:34:06.77 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 11:40:24.55 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 12:22:22.31 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 12:47:06.03 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 15:13:36.43 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 15:56:09.97 NEW SESSION
+Nov 18, 2015 15:56:09.97 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 16:31:59.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 16:36:23.65 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 16:44:42.79 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 17:42:44.08 NEW SESSION
+Nov 18, 2015 17:42:44.08 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 19:34:57.82 NEW SESSION
+Nov 18, 2015 19:34:57.82 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 19:57:22.65 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 20:10:32.96 NEW SESSION
+Nov 18, 2015 20:10:32.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 20:15:32.06 NEW SESSION
+Nov 18, 2015 20:15:32.06 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 20:28:29.72 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 20:45:32.84 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 20:47:49.05 NEW SESSION
+Nov 18, 2015 20:47:49.05 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 20:56:43.05 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:13:27.28 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:15:10.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:21:06.04 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:25:17.68 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:26:23.90 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:27:37.15 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:30:27.30 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 18, 2015 21:32:45.99 NEW SESSION
+Nov 18, 2015 21:32:45.99 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:33:33.84 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:40:26.72 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:43:39.19 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:48:57.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 18, 2015 21:55:49.64 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 19, 2015 12:05:19.14 NEW SESSION
+Nov 19, 2015 12:05:19.14 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 12:08:22.02 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 12:18:25.55 1447915705553	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 19, 2015 12:27:39.89 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 12:35:08.47 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 12:37:56.19 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 19, 2015 13:04:12.07 NEW SESSION
+Nov 19, 2015 13:04:12.07 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:07:40.41 console.error: UITour: 
+Nov 19, 2015 13:07:40.41   showHeartbeat: Invalid learnMore URL specified.
+Nov 19, 2015 13:10:12.70 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:16:16.32 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:19:09.14 console.error: UITour: 
+Nov 19, 2015 13:19:09.17   showHeartbeat: Invalid learnMore URL specified.
+Nov 19, 2015 13:22:42.56 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:35:19.19 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:39:45.53 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:43:05.17 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:44:28.42 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 13:45:30.38 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:00:34.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:15:04.52 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:24:27.36 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:34:50.11 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:35:40.22 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:47:37.18 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:48:35.42 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:52:12.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 16:53:21.21 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 17:09:54.77 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 18:33:23.53 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 18:54:21.10 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 19:13:10.75 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 19:38:04.57 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 19:53:17.03 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 19:54:03.25 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 20:07:19.00 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 20:08:02.13 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 20:28:30.31 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 19, 2015 20:31:32.39 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 09:48:04.67 NEW SESSION
+Nov 20, 2015 09:48:04.67 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 09:56:08.02 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 10:01:10.64 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 10:26:42.26 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 10:43:17.40 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 10:49:54.72 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 10:50:47.13 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:14:02.46 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:15:59.77 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:22:23.29 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:28:36.62 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:31:42.20 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 11:36:36.01 NEW SESSION
+Nov 20, 2015 11:36:36.01 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:45:22.92 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 11:57:19.58 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:02:37.32 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:04:28.89 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:05:22.15 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:06:54.87 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:07:46.25 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:18:05.57 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 12:20:08.69 1448002208694	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Nov 20, 2015 12:34:49.72 NEW SESSION
+Nov 20, 2015 12:34:49.72 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 13:27:44.94 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 13:42:38.13 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 13:43:50.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 14:33:54.96 NEW SESSION
+Nov 20, 2015 14:33:54.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 15:48:22.38 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 15:51:14.23 NEW SESSION
+Nov 20, 2015 15:51:14.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 15:57:54.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:11:13.91 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:14:12.16 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:22:04.37 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:36:53.28 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:40:59.73 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:43:41.53 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:46:55.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:48:28.49 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:50:41.41 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 16:54:49.78 NEW SESSION
+Nov 20, 2015 16:54:49.78 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 16:56:34.47 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:00:59.52 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:01:39.40 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:06:32.48 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:10:06.61 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 20, 2015 17:14:57.99 NEW SESSION
+Nov 20, 2015 17:14:57.99 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:16:01.57 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:16:40.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:17:44.85 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:20:25.23 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:24:34.01 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:29:40.98 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:33:44.34 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:37:20.83 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 17:42:09.44 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:14:15.39 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:18:39.44 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:20:44.76 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:26:27.24 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:29:45.02 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:32:30.00 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:36:33.11 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:38:23.80 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:39:05.43 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:40:49.93 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:42:10.16 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:45:11.25 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:46:41.29 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 18:47:31.94 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 20, 2015 18:58:51.65 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:01:06.73 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:11:18.03 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:12:15.03 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 20, 2015 19:14:41.21 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:16:43.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:17:56.81 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:19:01.02 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:20:20.34 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:21:16.96 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:22:16.52 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:23:15.79 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:36:04.25 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:37:23.03 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:39:41.72 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 20, 2015 19:50:26.11 console.error: 
+Nov 20, 2015 19:50:26.11   Protocol error (noSuchActor): No such actor for ID: server1.conn0.profilerActor20
+Nov 20, 2015 19:50:57.09 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:52:28.26 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:56:29.07 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:57:18.92 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 20, 2015 19:57:35.06 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 20, 2015 19:59:54.71 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 20, 2015 20:01:21.53 console.error: 
+Nov 20, 2015 20:01:21.53   Protocol error (noSuchActor): No such actor for ID: server1.conn1.profilerActor20
+
+Nov 23, 2015 10:42:55.27 NEW SESSION
+Nov 23, 2015 10:42:55.27 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 10:45:10.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 15:22:46.97 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 15:45:03.36 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 15:46:45.87 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 23, 2015 15:47:06.72 1448273826724	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Nov 23, 2015 15:54:33.07 console.error: 
+Nov 23, 2015 15:54:33.07   Protocol error (noSuchActor): No such actor for ID: server1.conn0.profilerActor20
+Nov 23, 2015 15:56:24.31 [GFX1]: D3D11 device creation failed: 0x887a0004
+
+Nov 23, 2015 16:02:42.10 NEW SESSION
+Nov 23, 2015 16:02:42.10 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 16:04:24.69 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 16:12:26.86 console.warn: Asynchronous operation was aborted as selection changed.
+Nov 23, 2015 16:19:58.92 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 18:50:14.33 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 19:20:20.45 [GFX1]: D3D11 device creation failed: 0x887a0004
+Nov 23, 2015 19:29:14.28 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Nov 23, 2015 19:29:14.29 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Nov 23, 2015 19:29:14.30 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+Nov 23, 2015 19:32:31.80 [NPAPI 4184] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333

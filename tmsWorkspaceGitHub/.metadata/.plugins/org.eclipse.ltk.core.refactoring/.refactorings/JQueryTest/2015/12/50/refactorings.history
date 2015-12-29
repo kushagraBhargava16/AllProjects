@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.yash.bean&apos; to &apos;TestJS/src&apos;&#x0D;&#x0A;- Original project: &apos;JQueryTest&apos;&#x0D;&#x0A;- Destination element: &apos;TestJS/src&apos;&#x0D;&#x0A;- Original element: &apos;JQueryTest/src/com.yash.bean&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=TestJS/src" element1="/src&lt;com.yash.bean" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1449726374301" version="1.0"/>
+</session>

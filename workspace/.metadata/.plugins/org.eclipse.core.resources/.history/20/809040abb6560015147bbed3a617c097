@@ -1,0 +1,34 @@
+package banking;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int choose ;
+		static int count=0;
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Please enter your choice: 1.Add 2.Show");
+		choose=sc.nextInt();
+		switch(choose){
+		case 1:
+			Customer cust1=new Customer();
+			cust1.addBani();
+			++count;
+			break;
+			
+		case 2:
+			for(int i; ;)
+			break;
+		}
+		
+		cust1.showBani();
+	}
+
+}
+
+public static void add(){
+	
+}
+
+

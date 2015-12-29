@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+		xmlns:p="http://primefaces.org/ui"
+	>
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="jquery-ui.js"></script>
+	<script type="text/javascript" src="home.js"></script>
+	<link rel="stylesheet" href="home.css" type="text/css" />
+	<link rel="stylesheet" href="jquery-ui.css" type="text/css" />
+
+	<title>Insert title here</title>
+</h:head>
+<h:body>
+	<div id="body">
+		<h:form prependId="false">
+			<div id="header">
+				<h:outputText value="Welcome! #{userBeans.user.name}" />
+				<h:commandButton  value="Cart #{cartBeans.count}"
+					id="proceedButton" class="myButton"
+					action="#{cartBeans.getCartDetails}" />
+				<h:commandButton name="logout" value="logout" id="logout"
+					class="myButton" action="#{cartBeans.logout}" />
+			</div>
+
+		</h:form>
+
+		<div id="middle">
+			<div id="middleLeft">
+				<h3>
+					<i>Clothing !</i>
+				</h3>
+				<h:commandButton value="Men" id="buttonMen" name="buttonMen" />
+				<br /> <br />
+				<h:commandButton value="Women" id="buttonWomen" name="buttonWomen" />
+				<br /> <br />
+				<h:commandButton value="Child" id="buttonChild" name="buttonChild" />
+			</div>
+			<div id="middleRight">
+				<div id="mensProduct">
+					<div id="menproduct1" class="Products">
+						<table id="product1">
+							<tr>
+								<td colspan="2"><img
+									src="http://www.onlineapparel.in/wp-content/uploads/2014/05/frml1.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product :</td>
+								<td>Casual Shirt</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1000</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="menproduct2" class="Products">
+						<table id="product2">
+							<tr>
+								<td colspan="2"><img
+									src="https://stylesaute.files.wordpress.com/2014/06/hotsummerfashionmen-india.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product:</td>
+								<td>Formal Shirt</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1000</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="menproduct3" class="Products">
+						<table id="product3">
+							<tr>
+								<td colspan="2"><img
+									src="http://www.fashionstyle2day.com/wp-content/uploads/2015/05/new-fashion-2015-men-long-sleeve-shirts-men.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product :</td>
+								<td>T-Shirt</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>600</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+					<div id="menproduct4" class="Products">
+						<table id="product4">
+							<tr>
+								<td colspan="2"><img
+									src="http://www.image4world.com/vb/imgcache/2/19714poster.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product</td>
+								<td>Jeans</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1600</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+				</div>
+				<div id="womensProduct">
+					<div id="womenproduct1" class="Products">
+						<table id="productwomen1">
+							<tr>
+								<td colspan="2"><img
+									src="http://im.rediff.com/fashion/2015/jan/pink-white-floral-designer-georgette-party-wear-saree-with-blouse-15901.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product</td>
+								<td>Saree</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1000</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="womenproduct2" class="Products">
+						<table id="productwomen2">
+							<tr>
+								<td colspan="2"><img
+									src="data:image/jpeg;base64,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"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product:</td>
+								<td>Shirt</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1000</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="womenproduct3" class="Products">
+						<table id="productwomen3">
+							<tr>
+								<td colspan="2"><img
+									src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ir-xdi-NuzdhmLcldRkUKdFyGYQoJOV5qm8mG1qE3WGjUjSD"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product :</td>
+								<td>Jacket</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1600</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										value="Add To Cart" class="addToCartButton" /></td>
+
+							</tr>
+						</table>
+					</div>
+					<div id="womenproduct4" class="Products">
+						<table id="productwomen4">
+							<tr>
+								<td colspan="2"><img
+									src="http://www.image4world.com/vb/imgcache/2/19714poster.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product</td>
+								<td>Jeans</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>1600</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										class="addToCartButton" value="Add To Cart" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+				</div>
+				<div id="childsProduct">
+					<div id="childproduct1" class="Products">
+						<table id="productchild1">
+							<tr>
+								<td colspan="2"><img
+									src="http://cdn.notonthehighstreet.com/system/product_images/images/001/266/956/original_child-s-personalised-athletic-sports-t-shirt.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product</td>
+								<td>Shirt</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>700</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										class="addToCartButton" value="Add To Cart" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="childproduct2" class="Products">
+						<table id="productchild2">
+							<tr>
+								<td colspan="2"><img
+									src="http://www.becauseclothing.com/wp-content/uploads/2011/11/BABY-PARTY-DRESS.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product:</td>
+								<td>Frok</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>8000</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										class="addToCartButton" value="Add To Cart" /></td>
+
+							</tr>
+						</table>
+					</div>
+
+					<div id="childproduct3" class="Products">
+						<table id="productchild3">
+							<tr>
+								<td colspan="2"><img
+									src="http://i00.i.aliimg.com/wsphoto/v0/892447476_1/New-brand-safe-2013-children-s-clothing-child-shorts-baby-boy-girl-child-denim-shorts-baby.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product :</td>
+								<td>Shorts</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>500</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										class="addToCartButton" value="Add To Cart" /></td>
+
+							</tr>
+						</table>
+					</div>
+					<div id="childproduct4" class="Products">
+						<table id="productchild4">
+							<tr>
+								<td colspan="2"><img
+									src="http://i01.i.aliimg.com/wsphoto/v1/885093983/2014-new-fashion-Children-Boy-Bib-Girl-jeans-baby-boys-child-jeans-Detachable-strap-trousers-casual.jpg"
+									alt="" class="image" /></td>
+							</tr>
+							<tr>
+								<td>Product</td>
+								<td>Jeans</td>
+							</tr>
+							<tr>
+								<td>Price</td>
+								<td>600</td>
+
+							</tr>
+							<tr>
+								<td colspan="2"><h:commandButton type="button"
+										class="addToCartButton" value="Add To Cart" /></td>
+
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+
+
+		<div id="footer">
+			<div id="dialog" style="display: none;" title="Product Details!">
+				<h:form>
+					<table>
+						<tr>
+							<td><h:inputHidden name="username" id="username"
+									value="#{userBeans.user.username}" /></td>
+						</tr>
+						<tr>
+							<td>Product Name</td>
+							<td><input type="text" id="name" readonly="readonly"
+								name="name" /></td>
+						</tr>
+						<tr>
+							<td>Product Price :</td>
+							<td><input type="text" id="price" readonly="readonly"
+								name="price" /></td>
+						</tr>
+						<tr>
+							<td>Quantity</td>
+							<td>
+							<h:selectOneMenu value="#{cartBeans.quantity}">
+							<f:selectItem itemValue="1" itemLabel="1"/>
+							<f:selectItem itemValue="2" itemLabel="2"/>
+							<f:selectItem itemValue="3" itemLabel="3"/>
+							<f:selectItem itemValue="4" itemLabel="4"/>
+							<f:selectItem itemValue="5" itemLabel="5"/>
+							<f:selectItem itemValue="6" itemLabel="6"/>
+							<f:selectItem itemValue="7" itemLabel="7"/>
+							<f:selectItem itemValue="8" itemLabel="8"/>
+							<f:selectItem itemValue="9" itemLabel="9"/>
+							<f:selectItem itemValue="10" itemLabel="10"/>
+							</h:selectOneMenu>
+							</td>
+						</tr>
+
+						<tr>
+							<td colspan="2"><h:commandButton type="submit"
+									value="Confirm!" id="dialogSubmit"
+									action="#{cartBeans.setCartDetails}" /></td>
+						</tr>
+					</table>
+
+				</h:form>
+
+			</div>
+
+		</div>
+	</div>
+</h:body>
+</html>

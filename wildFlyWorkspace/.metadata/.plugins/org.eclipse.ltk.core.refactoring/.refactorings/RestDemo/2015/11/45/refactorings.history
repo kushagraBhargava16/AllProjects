@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RestConfiguration.java&apos; to &apos;RestResumeApp/src/com.yash.rest.restresumeapp.config&apos;&#x0D;&#x0A;- Original project: &apos;RestDemo&apos;&#x0D;&#x0A;- Destination element: &apos;RestResumeApp/src/com.yash.rest.restresumeapp.config&apos;&#x0D;&#x0A;- Original element: &apos;com.yash.config.RestConfiguration.java&apos;" description="Copy compilation unit" destination="=RestResumeApp/src&lt;com.yash.rest.restresumeapp.config" element1="/src&lt;com.yash.config{RestConfiguration.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1446471645066" units="1" version="1.0"/>
+</session>

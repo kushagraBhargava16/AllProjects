@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Tech Support!</title>
+</head>
+<body>
+	<form method="post" action="TechSupportServlet">
+		<table border="1">
+			<tr>
+				<th>Email Id:</th>
+				<td><input type="text" name="employeeEMail"></td>
+			</tr>
+			<tr>
+				<th>Software:</th>
+				<td><select name="softwareName">
+						<option value="default">Select-One</option>
+						<option value="eclipes">Eclipes</option>
+						<option value="netbean">Netbeans</option>
+						<option value="sqlyog">SQL Yog</option>
+						<option value="notepad++">Notepad++</option>
+				</select></td>
+			</tr>
+			<tr>
+				<th>Operating System:</th>
+				<td><select name="osName">
+						<option value="default">Select-One</option>
+						<option value="windows7">Windows 7</option>
+						<option value="unix">Unix</option>
+						<option value="linux">Linux</option>
+						<option value="windowsVista">Windows Vista</option>
+						<option value="windowsXP">Windows XP</option>
+				</select></td>
+			</tr>
+			<tr>
+				<th>Description:</th>
+				<td><textarea name="description" rows="2" cols="12"> 
+				</textarea></td>
+
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><input type="submit"
+					value="SUBMIT">
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

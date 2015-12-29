@@ -1,0 +1,11 @@
+127.0.0.1 - - [03/Nov/2015:16:45:58 +0530] "GET / HTTP/1.1" 404 983
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:04 +0530] "GET /SampleCRUDApplication/main.jsp HTTP/1.1" 200 2746
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /SampleCRUDApplication/external.js HTTP/1.1" 200 1128
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /SampleCRUDApplication/jquery-ui.css HTTP/1.1" 200 35212
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /SampleCRUDApplication/global.css HTTP/1.1" 200 1220
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /SampleCRUDApplication/jquery.js HTTP/1.1" 200 284394
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /SampleCRUDApplication/jquery-ui.js HTTP/1.1" 200 470596
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /favicon.ico HTTP/1.1" 404 1005
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:05 +0530] "GET /favicon.ico HTTP/1.1" 404 1005
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:19 +0530] "GET /SampleCRUDApplication/index.jsp HTTP/1.1" 200 412
+0:0:0:0:0:0:0:1 - - [03/Nov/2015:16:46:22 +0530] "GET /SampleCRUDApplication/EmployeesProcessingServlet?submit=Welcome%21 HTTP/1.1" 200 2923

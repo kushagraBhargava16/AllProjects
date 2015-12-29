@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Nov/2015:11:21:15 +0530] "GET / HTTP/1.1" 404 983
+127.0.0.1 - - [09/Nov/2015:11:21:18 +0530] "GET /ECommerce/faces/index.xhtml HTTP/1.1" 200 3523
+127.0.0.1 - - [09/Nov/2015:11:21:18 +0530] "GET /ECommerce/faces/javax.faces.resource/jquery/jquery.js;jsessionid=2F28781C2ED5C788044137FB4FB618C3?ln=primefaces&v=4.0 HTTP/1.1" 200 105493
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/javax.faces.resource/primefaces.js;jsessionid=2F28781C2ED5C788044137FB4FB618C3?ln=primefaces&v=4.0 HTTP/1.1" 200 277201
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/javax.faces.resource/theme.css?ln=primefaces-aristo HTTP/1.1" 200 28123
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=2F28781C2ED5C788044137FB4FB618C3?ln=primefaces&v=4.0 HTTP/1.1" 200 220747
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/jquery.js HTTP/1.1" 200 284394
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/javax.faces.resource/primefaces.css;jsessionid=2F28781C2ED5C788044137FB4FB618C3?ln=primefaces&v=4.0 HTTP/1.1" 200 53396
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/home.css HTTP/1.1" 200 3372
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /ECommerce/faces/global.css HTTP/1.1" 404 1023
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /favicon.ico HTTP/1.1" 404 1005
+127.0.0.1 - - [09/Nov/2015:11:21:19 +0530] "GET /favicon.ico HTTP/1.1" 404 1005

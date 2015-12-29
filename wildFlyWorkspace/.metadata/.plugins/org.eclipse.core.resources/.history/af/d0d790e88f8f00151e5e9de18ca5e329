@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+#detailedCourse {
+	/* border: 1px solid green; */
+	width: 700px;
+	height: 800px;
+	margin-left: 2%;
+	/* background-color: white; */
+	margin-top: 2%;
+	text-align: center;
+}

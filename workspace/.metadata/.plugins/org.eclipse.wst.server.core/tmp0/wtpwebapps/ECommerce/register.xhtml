@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Register</title>
+	<link rel="stylesheet" href="home.css" type="text/css" />
+
+</h:head>
+<h:body>
+	<h:form prependId="false" id="registerForm">
+		<table>
+			<tr>
+				<td><p:outputLabel value="Name" /></td>
+				<td><p:inputText id="name" value="#{userBeans.user.name}"
+						required="true">
+						 </p:inputText> <p:message for="name" />
+						</td>
+			</tr>
+			<tr>
+				<td><p:outputLabel value="Contact" /></td>
+				<td><p:inputText id="contact" value="#{userBeans.user.contact}"
+						required="true" >
+						 </p:inputText> <p:message for="contact" />
+						
+						</td>
+			</tr>
+			<tr>
+				<td><p:outputLabel value="Email" /></td>
+				<td><p:inputText id="email" value="#{userBeans.user.email}"
+						required="true" > </p:inputText> <p:message for="email" /></td>
+			</tr>
+			<tr>
+				<td><p:outputLabel value="Address" /></td>
+				<td><p:inputTextarea id="address"
+						value="#{userBeans.user.address}" required="true"> </p:inputTextarea> <p:message
+						for="address" /></td>
+			</tr>
+			<tr>
+				<td><p:outputLabel value="Username" /></td>
+				<td><p:inputText id="username"
+						value="#{userBeans.user.username}" required="true" > </p:inputText> <p:message
+						for="username" /></td>
+			</tr>
+
+			<tr>
+				<td><p:outputLabel value="Password" /></td>
+				<td><p:inputText id="password"
+						value="#{userBeans.user.password}">
+						<f:validateLength minimum="5" maximum="8" />
+					</p:inputText> <p:message for="password" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><p:commandButton ajax="false"
+						type="submit" value="Register" action="#{userBeans.register}" />
+					<h:outputLink value="index.xhtml">Login</h:outputLink></td>
+			</tr>
+		</table>
+	</h:form>
+</h:body>
+</html>

@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+
+#top{
+background-color: black;
+color: white;
+text-align: left;
+padding-top: 55px;
+font-size: 20px;
+padding-bottom: 10px;
+padding-left: 10px;
+	
+}
+
+#main {
+	height:720px;
+	width:1200px;
+	background-color: grey;
+	/* border: 5px solid white; */
+
+
+}
+
+body {
+		padding-top: 20px;
+	padding-left: 120px;
+	
+}
+
+#formDiv{
+	padding-top:20px;
+	padding-left:50%;
+	text-align: center;
+
+}
+
+#form{
+	height:570px;
+width: 100%;
+background-color: green;
+padding-top: 20px;
+
+text-align: center;
+}

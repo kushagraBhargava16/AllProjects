@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemadesigner version="6.5">
+<source>
+<database charset="latin1" collation="latin1_swedish_ci">trainingmanagement</database>
+</source>
+<canvas zoom="100">
+<tables>
+<table name="user" view="colnames">
+<left>516</left>
+<top>230</top>
+<width>111</width>
+<height>226</height>
+<sql_create_table>CREATE TABLE `user` (
+  `user_id` int(5) NOT NULL AUTO_INCREMENT,
+  `name` varchar(20) DEFAULT NULL,
+  `contact` varchar(10) DEFAULT NULL,
+  `emailid` varchar(30) DEFAULT NULL,
+  `designation` int(1) DEFAULT NULL,
+  `status` int(1) NOT NULL,
+  `role` int(1) NOT NULL,
+  `username` varchar(20) NOT NULL,
+  `password` varchar(12) NOT NULL,
+  PRIMARY KEY (`user_id`),
+  KEY `fk_designation` (`designation`),
+  KEY `fk_role` (`role`),
+  KEY `fk_status` (`status`),
+  CONSTRAINT `fk_designation` FOREIGN KEY (`designation`) REFERENCES `designation` (`designation_id`),
+  CONSTRAINT `fk_role` FOREIGN KEY (`role`) REFERENCES `role` (`role_id`),
+  CONSTRAINT `fk_status` FOREIGN KEY (`status`) REFERENCES `status` (`status_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1</sql_create_table>
+</table>
+<table name="designation" view="colnames">
+<left>89</left>
+<top>62</top>
+<width>150</width>
+<height>107</height>
+<sql_create_table>CREATE TABLE `designation` (
+  `designation_id` int(1) NOT NULL,
+  `designation_type` varchar(15) NOT NULL,
+  PRIMARY KEY (`designation_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1</sql_create_table>
+</table>
+<table name="role" view="colnames">
+<left>1002</left>
+<top>65</top>
+<width>107</width>
+<height>107</height>
+<sql_create_table>CREATE TABLE `role` (
+  `role_id` int(1) NOT NULL,
+  `role_type` varchar(10) NOT NULL,
+  PRIMARY KEY (`role_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1</sql_create_table>
+</table>
+<table name="status" view="colnames">
+<left>80</left>
+<top>506</top>
+<width>112</width>
+<height>107</height>
+<sql_create_table>CREATE TABLE `status` (
+  `status_id` int(1) NOT NULL,
+  `status_type` varchar(10) NOT NULL,
+  PRIMARY KEY (`status_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1</sql_create_table>
+</table>
+</tables>
+</canvas>
+</schemadesigner>

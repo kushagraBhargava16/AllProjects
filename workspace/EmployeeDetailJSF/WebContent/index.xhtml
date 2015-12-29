@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+<h:head>
+	<script type="text/javascript" src="jquery.js"></script>
+
+	<script type="text/javascript" src="jquery-ui.js" />
+	<script type="text/javascript" src="external.js" />
+	<link rel="stylesheet" href="jquery-ui.css" />
+	<style>
+		.error {
+			color: red;
+		}
+	</style>
+	
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<!-- 	<script>
+	$(document).ready(function(){
+		$("#dob").datepicker();
+		
+	});
+	</script> -->
+	<title>Employee Form</title>
+</h:head>
+<h:body>
+	<center> <h:form prependId="false">
+		<table>
+			<tr>
+				<th>Name:</th>
+				<td><h:inputText id="name" class='reset' required="true"
+						value="#{customerBean.name}"  requiredMessage="*Value required!" /> <h:message for="name"
+						class="error" /></td>
+			</tr>
+			<tr>
+				<th>Gender:</th>
+				<th><h:selectOneRadio id="gender" class='reset' required="true"
+						value="#{customerBean.gender}" requiredMessage="*Value required!">
+						<f:selectItem itemValue="1" itemLabel="Male" />
+						<f:selectItem itemValue="2" itemLabel="Female" />
+					</h:selectOneRadio> <h:message for="gender" class="error" /></th>
+			</tr>
+			<tr>
+				<th>Contact:</th>
+				<th><h:inputText id="contact" required="true" class='reset'
+						value="#{customerBean.contact}"  requiredMessage="*Value required!">
+					<h:message for="contact" class="error" />
+					</h:inputText>
+					</th>
+			</tr>
+			<tr>
+				<th>Email:</th>
+				<th><h:inputText id="email" required="true" class='reset'
+						value="#{customerBean.email}" requiredMessage="*Value required!"/> <h:message for="email"
+						id="class" class="error" /></th>
+			</tr>
+			<tr>
+				<th>Address:</th>
+				<th><h:inputTextarea id="address" class='reset' required="true"
+						value="#{customerBean.address}" requiredMessage="*Value required!"/>
+					<h:message for="address" class="error" /></th>
+			</tr>
+			<tr>
+				<th>DOB:</th>
+				<th><h:inputText id="dob" value="#{customerBean.DOB}"
+						class='reset' required="true" requiredMessage="*Value required!"/>
+					<h:message for="dob" class="error" /></th>
+			</tr>
+			<tr>
+				<th>Year Of Experience:</th>
+				<th><h:selectOneMenu id="experience"
+						value="#{customerBean.experience}" class='reset' required="true" requiredMessage="*Value required!">
+						<f:selectItem itemValue="1" itemLabel="1+" />
+						<f:selectItem itemValue="2" itemLabel="2+" />
+						<f:selectItem itemValue="3" itemLabel="3+" />
+						<f:selectItem itemValue="4" itemLabel="4+" />
+						<f:selectItem itemValue="5" itemLabel="5+" />
+						<f:selectItem itemValue="6" itemLabel="6+" />
+						<f:selectItem itemValue="7" itemLabel="7+" />
+						<f:selectItem itemValue="8" itemLabel="8 and more." />
+					</h:selectOneMenu>
+					<h:message for="experience" class="error" /></th>
+			</tr>
+			<tr>
+				<th>Technology Known:</th>
+				<td><h:selectManyCheckbox id="techKnown"
+						value="#{customerBean.technologies}" class='reset' required="true" requiredMessage="*Value required!">
+						<f:selectItem itemValue="jsp" itemLabel="JSP" />
+						<f:selectItem itemValue="java" itemLabel="Java" />
+						<f:selectItem itemValue="hibernate" itemLabel="Hibernate" />
+						<f:selectItem itemValue="spring" itemLabel="Spring" />
+					</h:selectManyCheckbox> <h:message for="techKnown" class="error" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><h:selectBooleanCheckbox
+						id="terms" class='reset' /> I accept the Terms And Conditions.</td>
+			</tr>
+			<tr>
+				<td><h:commandButton id="reset" name="reset" value="Reset"
+						type="reset" /></td>
+				<th><h:commandButton type="submit" id="submit" name="submit"
+						value="submit" action="#{customerBean.add}" /></th>
+			</tr>
+		</table>
+	</h:form> </center>
+</h:body>
+</html>

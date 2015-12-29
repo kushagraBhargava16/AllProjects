@@ -1,0 +1,24 @@
+#mainTrainerHomeDiv{
+	  width: 80%;
+	  height: 500px;
+	  background-color: transparent;
+	  float: left;
+	margin-top: 10px;
+}
+#trainerTableDiv{
+float: left;
+	margin-left: .5%;
+	margin-top: .5%;
+	width: 60%;
+	text-align: center;
+/* 	border: 1px solid blue;
+ */	padding-left: 39px;
+	background-color: white;
+	  float: left;
+}
+#downloadDocsDiv{
+float: left;
+text-align: center;
+background-color: white;
+	
+}

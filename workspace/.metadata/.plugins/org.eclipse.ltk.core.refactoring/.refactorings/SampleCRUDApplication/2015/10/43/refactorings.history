@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ECommerce/src/com.yash.ecommerce.util&apos;&#x0D;&#x0A;- Original project: &apos;SampleCRUDApplication&apos;&#x0D;&#x0A;- Destination element: &apos;ECommerce/src/com.yash.ecommerce.util&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.yash.samplecrudapplication.util.DBUtil.java&#x0D;&#x0A;     com.yash.samplecrudapplication.util.ConnectionProvider.java" description="Copy compilation units" destination="=ECommerce/src&lt;com.yash.ecommerce.util" element1="/src&lt;com.yash.samplecrudapplication.util{DBUtil.java" element2="/src&lt;com.yash.samplecrudapplication.util{ConnectionProvider.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1445352379930" units="2" version="1.0"/>
+</session>

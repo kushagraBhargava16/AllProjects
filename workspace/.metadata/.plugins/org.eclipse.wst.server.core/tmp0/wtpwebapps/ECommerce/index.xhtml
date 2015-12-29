@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui"
+	>
+<h:head>
+	<script type="text/javascript" src="jquery.js"></script>
+	<link rel="stylesheet" type="text/css" href="global.css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+	<title>Login page!</title>
+	<link rel="stylesheet" href="home.css" type="text/css" />
+	<!-- <script>
+		$(document).ready(function(){
+			if($("#username").val()!=""){
+					
+			}
+		});
+	</script> -->
+</h:head>
+<h:body>
+	<div id="formDiv">
+	<h:outputText value="#{param['error']}" class="error"/>
+		<h:form prependId="false" id="loginForm">
+			<table>
+				<tr>
+					<th><p:outputLabel value="Username" /></th>
+					<td><p:inputText id="username" name="username"
+							value="#{userBeans.user.username}" required="true"
+							requiredMessage="Please enter a username!" /> 
+							<h:message for="username" class="error" /></td>
+				</tr>
+				<tr>
+					<th><p:outputLabel value="Password" /></th>
+					<td><p:inputMask id="password" name="password"
+							value="#{userBeans.user.password}" required="true"
+							requiredMessage="Please enter Password!" /> <h:message
+							for="password" class="error" /></td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+					<p:commandButton ajax="false" id="submit" name="submit" value="LogIn" />
+						New User?<h:outputLink value="register.xhtml">Register</h:outputLink>
+					</td>
+				</tr>
+			</table>
+		</h:form>
+	</div>
+</h:body>
+</html>

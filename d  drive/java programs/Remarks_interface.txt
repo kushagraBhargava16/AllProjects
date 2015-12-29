@@ -1,0 +1,5 @@
+Remarks:
+You cant implement any method inside an interface.
+Yes the extending class will need to implement all the methods of the parent interface.
+yes a variable defined in an interface is accessesible from its implementation.
+one class can implement any number of interface or classes

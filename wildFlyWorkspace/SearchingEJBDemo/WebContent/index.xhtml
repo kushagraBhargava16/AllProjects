@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Searching!</title>
+</h:head>
+<h:body>
+	<center> <h:form prependId="false">
+		<table >
+			<tr>
+				<th>Product</th>
+				<td><h:selectOneMenu id="product"
+						value="#{productBean.productName}">
+						<f:selectItem itemLabel=" " itemValue="--select--" />
+						<f:selectItems value="#{productBean.products}" />
+					</h:selectOneMenu></td>
+			</tr>
+			<tr>
+				<th>Vendor</th>
+				<td><h:selectOneMenu value="#{productBean.vendor}" id="vendor">
+						<f:selectItem itemLabel=" " itemValue="--select--" />
+						<f:selectItems value="#{productBean.vendors}" />
+					</h:selectOneMenu></td>
+			</tr>
+			<tr>
+				<th>City</th>
+				<td><h:selectOneMenu value="#{productBean.city}" id="city">
+						<f:selectItem itemLabel=" " itemValue="--select--" />
+						<f:selectItems value="#{productBean.cities}" />
+					</h:selectOneMenu></td>
+			</tr>
+			<tr>
+			<th>Sort By:</th>
+			<td>
+				<h:selectOneRadio value="#{productBean.sortBy}" id="sort">
+						<f:selectItem itemLabel="Product" itemValue="product" />
+						<f:selectItem itemLabel="vendor" itemValue="vendor" />
+						<f:selectItem itemLabel="city" itemValue="city" />
+					</h:selectOneRadio>
+			</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><h:commandButton value="Search!"
+						action="#{productBean.searchByProduct}" /></td>
+			</tr>
+		</table>
+	</h:form>
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>Vendor</th>
+			<th>City</th>
+		</tr>
+
+		<!-- <h:outputText value="#{productBean.searchedProduct}"/> -->
+		<ui:repeat value="#{productBean.searchedProduct}" var="product">
+			<tr>
+				<td>#{product.name}</td>
+				<td>#{product.vendor}</td>
+				<td>#{product.city}</td>
+			</tr>
+		</ui:repeat>
+	</table>
+	</center>
+</h:body>
+</html>

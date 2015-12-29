@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title> Testing JQuery</title>
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('#show').click(function(){
+					$("p:contains('kush')").fadeIn(2000);
+				});
+			}); 
+	
+		</script>
+		<style type="text/css">
+		p{
+		display:none;
+		}
+		</style>
+	</head>
+	
+	<body>
+	<input type="submit" value="show" id="show"/>
+		<p>kush 01</p>
+		<p>nukhil 02</p>
+		<p>kush 03</p>
+		<p>prateek 04</p>
+		<p>deepu 05</p>
+		<p>deppu 06</p>
+		
+	</body>
+</html>

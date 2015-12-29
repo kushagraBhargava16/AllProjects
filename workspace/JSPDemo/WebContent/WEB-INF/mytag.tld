@@ -1,0 +1,33 @@
+
+<taglib>
+
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+
+	<tag>
+		<name>formElement</name>
+		<tag-class>com.yash.tag.FormTag</tag-class>
+		<body-content>Empty</body-content>
+
+		<attribute>
+			<name>inputType</name>
+			<rtexprvalue>true</rtexprvalue>
+			<required>true</required>
+		</attribute>
+
+		<attribute>
+			<name>inputName</name>
+			<rtexprvalue>true</rtexprvalue>
+			<required>true</required>
+		</attribute>
+
+		<attribute>
+			<name>inputValue</name>
+			<rtexprvalue>true</rtexprvalue>
+			<required>false</required>
+		</attribute>
+
+	</tag>
+
+
+</taglib>

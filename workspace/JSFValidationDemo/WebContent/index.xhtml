@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+<h:head>
+	<link rel="stylesheet" href="global.css" type="text/css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Insert title here</title>
+</h:head>
+<h:body>
+	<h:form prependId="false">
+		Name:<h:inputText id="name" value="#{employeeBeans.name}"
+			required="true" requiredMessage="Enter the username!" />
+		<h:message for="name" class="error" />
+		<br />
+		Salary:<h:inputText id="salary" value="#{employeeBeans.salary}"
+			required="true" converterMessage="Invalid formate!"
+			requiredMessage="Enter the password!"
+			validatorMessage="Value should be between 20000 to 20,00,000">
+			<f:convertNumber pattern="0.00" />
+			<f:validateLongRange minimum="20000" maximum="2000000" />
+		</h:inputText>
+		<h:message for="salary" class="error" />
+		<br />
+		Joining Date:<h:inputText id="joining"
+			value="#{employeeBeans.joiningDate}" required="true"
+			requiredMessage="Please enter a value!">
+			<f:convertDateTime pattern="dd/MM/yyyy" />
+		</h:inputText>
+		<h:message for="joining" class="error" />
+		<br />
+		Department:<h:inputText id="depart" required="true"
+			requiredMessage="Please enter a value!"
+			value="#{employeeBeans.department}">
+			<f:validateRegex pattern=".*t" class="error" />
+			<f:validateLength minimum="5" maximum="20" />
+		</h:inputText>
+		<h:message for="depart" class="error" />
+		<br />
+		<h:commandButton id="submit" value="Submit"
+			action="#{employeeBeans.checkValidation}" />
+	</h:form>
+	<h:outputText id="joiningOut" value="#{employeeBeans.joiningDate}">
+		<f:convertDateTime dateStyle="default" />
+	</h:outputText>
+</h:body>
+</html>

@@ -1,0 +1,89 @@
+
+Oct 16, 2015 12:36:20.85 NEW SESSION
+Oct 16, 2015 12:36:20.85 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 16, 2015 13:53:53.92 *************************
+Oct 16, 2015 13:53:53.92 A coding exception was thrown and uncaught in a Task.
+Oct 16, 2015 13:53:53.94 
+Oct 16, 2015 13:53:53.94 Full message: TypeError: this._doc.documentElement is undefined
+Oct 16, 2015 13:53:53.95 Full stack: Readability.prototype.parse@resource://gre/modules/reader/Readability.js:1770:9
+Oct 16, 2015 13:53:53.95 Agent.parseDocument@resource://gre/modules/reader/ReaderWorker.js:48:12
+Oct 16, 2015 13:53:53.95 worker.dispatch@resource://gre/modules/reader/ReaderWorker.js:21:24
+Oct 16, 2015 13:53:53.99 anonymous/AbstractWorker.prototype.handleMessage@resource://gre/modules/workers/PromiseWorker.js:122:16
+Oct 16, 2015 13:53:53.99 @resource://gre/modules/reader/ReaderWorker.js:35:41
+Oct 16, 2015 13:53:53.99 
+Oct 16, 2015 13:53:54.00 *************************
+Oct 16, 2015 13:53:55.42 *************************
+Oct 16, 2015 13:53:55.42 A coding exception was thrown and uncaught in a Task.
+Oct 16, 2015 13:53:55.44 
+Oct 16, 2015 13:53:55.44 Full message: TypeError: this._doc.documentElement is undefined
+Oct 16, 2015 13:53:55.44 Full stack: Readability.prototype.parse@resource://gre/modules/reader/Readability.js:1770:9
+Oct 16, 2015 13:53:55.44 Agent.parseDocument@resource://gre/modules/reader/ReaderWorker.js:48:12
+Oct 16, 2015 13:53:55.44 worker.dispatch@resource://gre/modules/reader/ReaderWorker.js:21:24
+Oct 16, 2015 13:53:55.44 anonymous/AbstractWorker.prototype.handleMessage@resource://gre/modules/workers/PromiseWorker.js:122:16
+Oct 16, 2015 13:53:55.44 @resource://gre/modules/reader/ReaderWorker.js:35:41
+Oct 16, 2015 13:53:55.44 
+Oct 16, 2015 13:53:55.44 *************************
+Oct 16, 2015 19:45:05.58 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 19, 2015 16:34:30.78 NEW SESSION
+Oct 19, 2015 16:34:30.78 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 19, 2015 20:17:54.20 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 20, 2015 10:02:07.32 NEW SESSION
+Oct 20, 2015 10:02:07.32 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 12:10:33.89 1445323233854	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 20, 2015 12:57:54.57 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 13:10:07.03 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 15:44:11.52 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 15:55:06.74 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 15:57:18.55 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 16:08:53.92 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 20, 2015 17:47:53.46 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 21, 2015 10:01:33.52 NEW SESSION
+Oct 21, 2015 10:01:33.52 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 21, 2015 12:06:10.52 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 21, 2015 12:14:13.57 1445409853558	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 21, 2015 12:16:50.03 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 23, 2015 10:18:26.50 NEW SESSION
+Oct 23, 2015 10:18:26.50 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 10:30:29.44 1445576429456	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 23, 2015 11:17:37.60 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 13:31:08.56 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 16:33:23.08 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 17:26:02.11 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 17:37:16.62 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 23, 2015 18:41:23.24 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 26, 2015 10:36:04.11 NEW SESSION
+Oct 26, 2015 10:36:04.11 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 26, 2015 10:48:08.06 1445836688050	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 26, 2015 17:09:13.94 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 26, 2015 19:43:36.65 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 27, 2015 10:35:05.39 NEW SESSION
+Oct 27, 2015 10:35:05.39 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 27, 2015 10:48:08.43 1445923088406	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Oct 27, 2015 10:48:17.60 1445923097015	addons.xpi	WARN	Exception running bootstrap method shutdown on firebug@software.joehewitt.com: TypeError: scope.gcli.removeCommand is not a function (resource://firebug/gcli.js:187:9) JS Stack trace: unregisterCommands@gcli.js:187:9 < FirebugGCLICommands.shutdown@gcli.js:50:9 < shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/kushagra.bhargava/AppData/Roaming/Mozilla/Firefox/Profiles/nfslhlll.default/extensions/firebug@bootstrap.js:104:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4657:9 < AI_startInstall/<@XPIProvider.jsm:5991:1
+
+Oct 27, 2015 17:30:23.37 NEW SESSION
+Oct 27, 2015 17:30:23.37 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 27, 2015 17:43:22.13 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 27, 2015 17:43:37.13 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 27, 2015 19:09:21.31 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 28, 2015 12:23:43.08 NEW SESSION
+Oct 28, 2015 12:23:43.08 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 28, 2015 17:35:03.86 [GFX1]: D3D11 device creation failed0x887a0004
+
+Oct 29, 2015 11:59:23.09 NEW SESSION
+Oct 29, 2015 11:59:23.09 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 29, 2015 12:11:25.69 1446100885691	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+Oct 29, 2015 15:35:38.03 NEW SESSION
+Oct 29, 2015 15:35:38.03 [GFX1]: D3D11 device creation failed0x887a0004
+Oct 29, 2015 15:55:06.84 [GFX1]: D3D11 device creation failed0x887a0004
+
+Nov 03, 2015 16:45:59.46 NEW SESSION
+Nov 03, 2015 16:45:59.46 [GFX1]: D3D11 device creation failed0x887a0004

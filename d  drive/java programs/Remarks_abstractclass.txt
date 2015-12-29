@@ -1,0 +1,5 @@
+remarks:
+methods in abstract class can be abstract or non abstract.
+variable in abstract class can be accessed by its chid chlass and can be changed.
+no need to implement all abstract methods of Car class in SUV another abstract class.
+in safari 4wheels drive was necesary to create.(method in immediate parent) 

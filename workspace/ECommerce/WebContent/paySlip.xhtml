@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	>
+<h:head>
+<style type="text/css">
+	.oddRow{
+		background-color: #ccc;
+	}
+	.evenRow{
+		background-color: #ff8;
+	}
+	.header{
+		background-color: #666666;
+		color: #fff;
+	}
+	
+	</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Insert title here</title>
+	<link rel="stylesheet" href="home.css" type="text/css" />
+
+</h:head>
+<h:body>
+	<center>
+	<div style="text-align: right">
+		<h:form >
+			<h:commandButton name="logout" value="logout" class="myButton" id="logout" action="#{cartBeans.logout}"/>
+			</h:form>
+			</div>
+	<h3>Product Details!</h3>
+	
+	<h:form>
+	<!-- 	<table >
+			<tr>
+				<th>Product</th>
+				<th>Base Price</th>
+				<th>Quantity</th>
+				<th>Total price</th>
+			</tr>
+			<ui:repeat value="#{cartBeans.cartProducts}" var="item">
+				<tr>
+					<td><h:outputText value="#{item.productName}" /></td>
+					<td><h:outputText value="#{item.productPrice}" /></td>
+					<td><h:outputText value="#{item.quantity}" /></td>
+					<td><h:outputText value="#{item.totalPrice}" /></td>
+				</tr>
+			</ui:repeat>
+			<tr>
+				<td colspan="2" align="center"><h:commandButton value="Add More Product" action="home" /></td>
+				<td colspan="2" align="center"><h:commandButton value="Proceed To pay" action="index" /></td>
+			</tr>
+		</table> -->
+		
+		
+<h:dataTable value="#{cartBeans.cartProducts}" var="cart" rowClasses="oddRow,evenRow" headerClass="header" border="1">
+		<f:facet name="caption">Cart Information</f:facet>
+		<h:column>
+		<f:facet name="header">Product Name</f:facet>
+			#{cart.productName}
+		</h:column>
+		
+		<h:column>
+			<f:facet name="header">Base price</f:facet>
+			#{cart.productPrice}
+		</h:column>
+		
+		<h:column>
+			<f:facet name="header">Quantity</f:facet>
+			#{cart.quantity}
+			
+		</h:column>
+		<h:column>
+			<f:facet name="header">Total Price</f:facet>
+			#{cart.totalPrice}
+			
+		</h:column>
+		<!-- <h:column>
+			<f:facet name="header">Action</f:facet>
+			
+		</h:column> -->
+	</h:dataTable>
+		<h:commandButton value="Add More Product" action="home"/>
+			<h:commandButton value="Proceed To pay" action="index" />
+		
+	</h:form> </center>
+</h:body>
+</html>

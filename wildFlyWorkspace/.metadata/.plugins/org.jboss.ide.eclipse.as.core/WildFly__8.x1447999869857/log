@@ -1,0 +1,3652 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:41:56.432
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:41:56.432
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 11:41:56.936
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 11:41:58.063
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 11:42:11.331
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:42:12.192
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:42:12.192
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 11:42:12.361
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:43:22.327
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:43:22.327
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 11:43:23.914
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:44:58.910
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:44:58.910
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 11:44:59.009
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 11:45:00.765
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 11:45:12.910
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:45:14.168
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:45:14.169
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 11:45:14.205
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:46:04.744
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:46:04.744
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:48:20.815
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:48:20.815
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:50:02.423
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:50:02.423
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 11:50:03.209
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:50:15.145
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:50:15.146
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 11:50:15.230
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 11:50:16.331
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 11:50:27.131
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:50:29.499
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:50:29.499
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 11:50:29.680
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:51:52.956
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:51:52.956
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:51:58.085
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:51:58.085
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:52:21.589
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:52:21.589
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 11:56:35.328
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:56:54.634
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:56:54.634
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 11:56:54.752
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 11:56:56.015
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 11:57:07.259
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:57:08.831
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:57:08.831
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 11:57:08.892
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 11:59:15.914
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 11:59:15.914
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 11:59:38.238
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:00:06.186
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:00:06.186
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:00:06.398
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:00:08.174
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:00:19.052
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:00:19.804
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:00:19.804
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:00:19.922
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:01:12.536
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:01:12.536
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:02:19.407
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:02:19.407
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:02:31.785
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:02:31.785
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:02:32.580
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:02:32.580
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:02:32.615
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:03:18.247
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:03:18.247
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:03:27.544
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:03:53.947
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:03:53.947
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:03:54.037
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:03:55.122
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:04:05.469
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:04:08.101
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:04:08.102
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:04:08.207
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 12:04:28.247
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:04:35.038
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:05:00.038
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:05:00.038
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:05:00.077
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:05:01.191
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:05:11.625
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:05:13.369
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:05:13.369
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:05:13.381
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:05:49.353
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:05:49.354
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:05:58.056
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:05:58.056
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:06:23.173
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:06:30.509
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:06:30.509
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:06:30.645
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:06:32.063
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:06:42.888
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:06:43.551
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:06:43.551
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:06:44.113
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:07:01.410
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:07:22.394
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:07:22.394
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:07:22.476
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:07:23.594
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:07:33.822
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:07:36.802
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:07:36.802
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:07:37.514
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:09:38.255
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:17:42.791
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:17:42.791
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:17:42.980
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:17:44.126
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:17:55.204
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:17:56.751
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:17:56.751
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:17:56.896
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:19:58.061
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:19:58.061
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:19:58.304
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:27:58.284
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:27:58.284
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:27:58.456
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:28:00.109
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:28:10.663
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:28:12.596
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:28:12.596
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:28:12.674
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 12:32:38.809
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:34:03.297
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:34:03.297
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:34:07.072
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:34:07.072
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 12:34:07.868
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 12:34:11.191
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 12:34:25.959
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 12:34:43.671
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 12:34:43.671
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 12:34:45.012
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 13:27:06.201
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:27:20.631
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:27:20.631
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 13:27:20.787
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 13:27:21.910
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 13:27:33.749
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:27:35.875
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:27:35.875
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 13:27:35.906
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:34:15.704
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:34:15.704
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:34:33.670
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:34:33.670
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 13:34:50.517
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:35:21.693
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:35:21.693
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 13:35:21.880
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 13:35:23.066
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 13:35:33.546
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:35:34.978
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:35:34.978
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 13:35:35.025
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 13:41:59.853
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:42:00.149
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:42:00.149
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:42:14.464
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:42:14.464
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 13:42:14.605
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 13:42:16.289
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 13:42:25.851
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:42:27.300
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:42:27.300
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 13:42:27.315
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 13:42:48.742
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:43:26.086
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:43:26.086
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 13:43:26.149
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 13:43:27.272
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 13:43:38.244
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:43:39.540
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:43:39.540
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 13:43:39.556
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:44:27.621
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:44:27.621
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:46:32.795
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:46:32.795
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:46:51.422
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:46:51.422
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 13:46:56.218
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:54:23.805
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:54:23.805
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 13:54:23.887
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 13:54:24.969
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 13:54:36.462
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 13:54:37.432
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 13:54:37.433
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 13:54:37.898
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:26:31.277
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:26:31.278
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:26:43.815
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:26:43.815
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:27:25.343
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:27:25.343
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:28:06.563
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:28:06.563
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 14:28:27.267
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:29:40.725
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:29:40.725
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:29:47.992
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:29:47.992
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 14:29:48.232
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 14:29:49.482
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 14:30:01.754
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:30:03.451
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:30:03.451
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 14:30:04.052
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:30:48.188
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:30:48.188
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:33:28.843
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:33:28.843
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 14:33:29.069
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 14:33:31.121
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 14:33:42.483
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:33:44.072
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:33:44.072
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 14:33:44.097
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:41:06.735
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:41:06.736
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 14:42:18.318
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:42:45.681
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:42:45.681
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 14:42:45.778
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 14:42:46.891
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 14:42:58.813
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 14:42:59.551
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 14:42:59.552
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 14:42:59.756
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 14:45:34.701
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:33:06.509
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:33:06.509
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:33:06.562
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:33:07.715
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:33:19.865
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:33:23.948
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:33:23.948
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 15:33:23.982
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:35:41.342
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:35:41.342
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:37:44.603
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:37:44.603
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 15:37:54.137
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:38:48.367
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:38:48.367
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:39:03.684
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:39:03.684
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:39:03.755
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:39:04.969
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:39:17.170
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:45:33.742
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:45:33.742
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 15:45:34.088
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:46:06.056
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:46:06.056
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:46:06.226
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:46:07.424
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:46:19.520
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:46:20.626
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:46:20.626
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 15:46:20.641
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 15:47:23.062
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:47:44.307
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:47:44.307
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:47:44.415
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:47:45.558
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:47:57.286
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:47:58.182
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:47:58.182
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 15:47:58.946
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 15:48:18.957
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:50:46.840
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:50:46.840
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:50:47.009
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:50:48.528
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:51:01.724
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:51:02.996
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:51:02.996
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 15:51:03.138
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:56:11.606
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:56:11.606
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 15:56:49.015
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:57:26.864
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:57:26.864
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 15:57:26.899
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 15:57:28.029
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 15:57:40.957
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 15:57:42.011
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 15:57:42.011
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 15:57:42.031
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:00:39.576
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:00:39.576
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:00:39.853
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:01:01.165
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:01:01.166
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:01:01.233
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:01:02.618
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:01:14.499
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:01:15.360
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:01:15.360
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:01:15.612
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:08:13.758
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:08:13.758
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:08:30.381
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:09:05.952
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:09:05.952
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:09:06.014
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:09:07.312
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:09:19.358
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:09:20.455
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:09:20.455
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:09:20.580
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:09:29.047
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:10:49.241
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:10:49.241
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:10:49.366
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:10:50.505
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:11:01.456
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:11:03.126
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:11:03.126
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:11:03.189
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:12:00.600
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:12:00.600
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:12:34.223
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:12:34.224
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:12:50.789
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:12:58.399
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:12:58.399
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:12:58.461
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:12:59.678
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:13:11.516
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:13:13.170
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:13:13.170
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:13:13.264
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 16:13:33.376
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:13:38.333
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:13:47.932
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:13:47.932
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:13:48.072
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:13:49.227
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:14:00.897
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:14:01.455
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:14:01.455
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:14:01.471
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:16:54.686
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:17:06.951
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:17:06.951
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:17:07.060
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:17:08.230
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:17:17.860
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:17:18.484
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:17:18.484
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:17:18.764
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:20:31.399
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:20:31.399
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:20:44.547
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:21:39.971
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:21:39.971
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:21:40.065
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:21:41.172
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:21:52.496
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:21:53.324
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:21:53.324
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:21:53.605
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:22:53.860
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:22:53.860
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:23:08.469
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:23:18.915
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:23:18.915
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:23:19.164
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:23:20.279
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:23:31.916
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:23:33.208
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:23:33.208
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:23:33.225
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:24:22.277
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:24:22.277
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:25:22.958
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:31:26.600
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:31:26.600
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:31:26.756
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:31:27.866
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:31:39.357
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:31:39.981
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:31:39.981
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:31:40.184
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:32:47.298
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:32:47.298
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:32:59.270
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:32:59.270
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:33:56.143
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:36:26.363
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:36:26.363
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:36:26.534
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:36:27.846
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:36:41.184
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:36:42.366
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:36:42.366
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:36:42.600
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:38:55.419
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:38:55.419
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:40:25.065
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:40:25.065
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:40:30.558
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:40:35.473
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:40:35.473
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:40:35.582
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:40:36.752
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:40:48.462
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:40:50.147
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:40:50.147
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:40:50.183
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:41:55.702
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:41:55.702
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:42:25.973
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:42:25.973
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:42:38.636
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:43:14.005
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:43:14.005
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:43:14.052
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:43:15.831
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:43:28.567
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:43:30.716
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:43:30.716
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:43:30.730
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:45:51.789
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:45:51.789
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:46:16.619
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:46:31.043
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:46:31.043
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:46:31.121
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:46:32.276
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:46:43.341
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:46:44.418
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:46:44.418
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:46:44.568
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:47:30.121
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:48:05.688
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:48:05.688
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:48:05.781
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:48:06.998
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:48:16.999
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:48:17.793
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:48:17.793
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:48:17.809
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:49:34.066
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:49:34.066
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:49:57.906
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:49:57.906
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:49:59.425
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:50:18.184
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:50:18.184
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:50:18.277
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:50:19.418
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:50:29.890
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:50:30.436
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:50:30.436
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:50:30.685
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:51:05.009
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:51:05.009
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:51:06.334
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:51:20.937
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:51:20.937
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:51:21.131
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:51:22.196
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:51:33.579
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:51:35.653
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:51:35.653
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:51:35.676
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:52:38.735
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:52:38.735
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:52:44.396
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:54:21.973
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:54:21.973
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:54:22.166
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:54:23.887
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:54:36.107
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:54:38.594
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:54:38.594
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:54:38.613
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:55:17.708
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:55:17.708
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 16:55:27.315
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:55:58.256
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:55:58.256
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:56:09.224
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:56:09.224
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 16:56:09.431
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 16:56:10.948
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 16:56:22.325
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:56:23.697
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:56:23.697
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 16:56:23.739
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:58:10.795
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:58:10.795
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:59:06.955
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:59:06.955
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 16:59:23.774
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 16:59:23.774
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:00:03.568
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:00:03.568
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:00:16.687
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:00:36.121
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:00:36.121
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:00:36.239
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:00:38.062
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:00:49.679
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:00:50.547
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:00:50.547
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:00:50.655
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:01:07.272
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:01:14.885
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:01:14.885
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:01:14.967
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:01:16.820
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:01:27.545
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:01:28.735
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:01:28.735
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:01:28.772
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:02:29.574
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:02:29.574
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:04:10.004
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:04:10.004
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:04:41.746
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:04:41.746
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:05:10.869
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:05:10.869
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:05:23.639
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:05:23.639
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:05:36.625
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:05:36.625
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:06:00.450
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:06:06.657
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:06:06.657
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:06:06.746
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:06:07.845
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:06:20.152
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:06:21.497
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:06:21.497
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:06:21.659
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:07:04.489
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:09:05.736
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:09:05.736
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:09:05.785
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:09:06.993
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:09:19.427
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:09:22.755
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:09:22.755
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:09:22.772
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:09:29.153
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:09:35.935
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:09:35.935
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:09:36.047
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:09:37.131
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 17:09:42.813
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:09:48.737
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:09:59.725
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:09:59.725
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:09:59.814
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:10:56.944
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:10:56.944
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:11:01.488
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:11:01.488
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:14:33.393
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:14:33.393
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:14:33.559
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:14:35.127
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:14:46.066
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:14:46.808
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:14:46.808
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:14:47.087
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:15:11.088
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:15:26.597
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:15:26.597
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:15:26.649
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:15:27.746
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:15:38.842
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:15:40.804
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:15:40.804
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:15:40.840
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 17:16:00.865
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:16:05.604
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:16:16.054
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:16:16.054
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:16:16.107
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:16:17.166
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:16:28.360
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:16:30.025
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:16:30.025
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:16:30.048
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:17:03.961
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:17:21.175
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:17:21.175
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:17:21.215
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:17:22.282
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:17:34.125
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:17:35.912
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:17:35.912
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:17:36.019
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:18:21.222
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:18:21.222
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:18:26.346
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:18:46.599
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:18:46.599
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:18:46.635
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:18:47.733
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:18:58.575
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:19:00.137
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:19:00.137
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:19:00.214
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:19:30.843
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:19:30.844
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:19:48.267
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:20:00.995
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:20:00.995
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:20:01.032
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:20:02.141
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:20:13.224
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:20:13.929
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:20:13.929
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:20:14.056
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:22:09.906
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:22:09.906
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:22:43.768
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:22:43.768
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:23:01.898
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:23:01.898
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:23:06.273
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:23:06.273
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:23:10.009
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:23:29.352
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:23:29.352
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:23:29.403
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:23:30.643
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:23:42.039
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:23:43.430
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:23:43.430
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:23:43.441
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:23:52.974
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 17:24:05.485
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:24:11.599
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:24:11.600
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:24:11.633
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:24:12.697
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:24:24.175
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:24:25.246
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:24:25.246
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:24:25.262
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:25:55.520
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:25:55.520
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:26:29.525
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:26:29.525
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:27:27.278
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:27:27.278
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:28:22.598
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:28:22.598
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:28:57.855
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:29:15.295
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:29:15.295
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:29:15.330
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:29:16.402
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:29:31.120
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:29:31.822
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:29:31.822
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:29:31.859
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:31:22.941
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:31:22.941
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:31:54.034
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:31:54.034
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:32:11.814
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:32:11.814
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:32:15.310
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:33:19.703
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:33:19.703
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:33:19.736
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:33:20.789
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:33:32.167
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:33:33.522
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:33:33.522
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:33:33.541
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:35:32.495
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:35:32.495
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:35:47.279
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:35:47.280
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:36:32.961
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:36:32.961
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:36:38.721
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:36:48.335
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:36:48.335
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:36:48.365
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:36:49.423
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:37:00.847
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:37:12.019
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:37:12.019
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:37:12.039
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:38:10.744
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:38:10.744
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:38:57.667
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:41:09.260
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:41:09.260
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:41:09.292
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:41:10.430
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:41:21.818
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:41:22.632
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:41:22.632
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:41:22.645
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 17:41:28.988
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 17:41:42.662
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:41:45.553
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:41:45.553
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 17:41:45.585
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 17:41:46.641
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 17:41:57.760
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:41:58.706
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:41:58.706
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 17:41:58.720
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:43:01.745
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:43:01.745
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:43:32.957
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:43:32.958
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 17:43:46.111
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 17:43:46.111
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:13:38.018
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:13:51.617
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:13:51.617
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:13:51.655
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:13:52.726
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:14:05.204
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:14:06.646
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:14:06.646
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:14:06.659
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:15:30.449
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:15:30.449
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:15:33.838
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:15:33.838
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:17:33.465
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:17:33.466
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:17:35.807
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:18:15.410
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:18:15.410
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:18:15.451
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:18:16.560
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:18:27.319
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:18:28.227
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:18:28.227
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:18:28.241
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:20:04.033
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:20:04.033
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:20:11.240
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:20:22.420
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:20:22.420
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:20:22.450
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:20:23.523
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:20:34.542
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:20:35.174
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:20:35.174
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:20:35.206
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:22:15.119
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:22:15.119
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:22:49.184
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:22:49.184
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:22:59.174
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:24:12.975
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:24:12.975
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:24:13.020
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:24:14.112
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:24:28.615
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:24:30.328
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:24:30.328
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:24:30.339
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:25:31.984
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:25:31.984
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:25:44.323
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:25:44.323
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:25:54.774
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:26:05.068
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:26:05.068
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:26:05.103
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:26:06.161
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:26:16.715
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:26:18.567
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:26:18.567
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:26:18.614
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:27:24.803
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:27:24.803
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:28:07.051
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:29:21.357
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:29:21.357
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:29:21.392
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:29:22.462
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:29:33.182
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:29:36.092
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:29:36.092
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:29:36.106
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:31:32.939
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:31:32.939
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:31:49.849
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:31:49.849
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:31:54.692
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:32:06.350
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:32:06.350
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:32:06.400
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:32:07.478
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:32:18.220
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:32:20.769
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:32:20.769
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:32:21.230
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:34:01.412
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:34:01.412
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:35:37.694
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:35:37.694
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:35:55.924
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:36:11.218
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:36:11.219
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:36:11.257
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:36:12.331
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:36:21.816
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:36:24.331
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:36:24.331
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:36:24.403
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:37:50.870
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:37:50.870
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:37:54.445
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:38:01.110
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:38:01.110
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:38:01.137
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:38:02.192
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:38:12.358
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:38:13.141
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:38:13.141
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:38:13.152
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:38:32.210
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:38:42.958
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:38:42.958
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:38:42.998
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:38:44.092
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:38:55.490
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:38:56.440
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:38:56.441
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:38:56.491
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:39:42.245
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:39:42.245
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:40:09.140
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:40:09.140
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:40:12.282
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:40:22.097
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:40:22.097
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:40:22.126
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:40:23.184
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:40:34.047
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:40:35.264
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:40:35.264
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:40:35.278
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:41:39.663
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:41:46.379
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:41:46.379
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:41:46.415
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:41:47.492
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:41:58.579
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:41:59.376
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:41:59.376
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:41:59.386
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:43:42.237
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:43:42.237
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:44:09.336
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:44:09.336
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:44:13.262
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:44:20.459
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:44:20.459
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:44:20.492
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:44:21.545
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:44:32.368
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:44:33.298
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:44:33.298
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:44:33.431
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:44:36.122
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:44:47.456
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:44:47.456
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:44:47.481
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:44:48.564
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-20 18:44:53.494
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:44:59.479
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:45:00.371
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:45:00.371
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:45:00.390
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:45:49.831
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:45:49.831
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:45:55.985
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:46:10.609
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:46:10.609
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:46:10.696
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:46:11.764
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:46:23.234
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:46:34.562
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:46:34.562
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:46:34.586
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:52:08.052
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:52:08.052
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 18:58:15.411
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:58:27.290
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:58:27.290
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 18:58:27.332
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 18:58:28.986
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 18:58:39.599
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:58:40.898
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:58:40.898
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 18:58:40.910
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 18:59:58.422
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 18:59:58.422
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:00:19.798
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:00:19.798
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:00:37.434
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:00:42.411
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:00:42.411
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:00:42.475
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:00:43.624
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:00:54.695
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:00:55.882
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:00:55.883
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:00:56.052
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:07:22.670
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:07:22.670
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:07:59.574
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:07:59.574
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:08:31.776
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:08:31.776
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:08:41.982
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:08:41.983
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:08:55.612
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:08:55.612
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:08:56.229
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:08:56.229
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:08:56.238
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:10:41.636
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:10:53.003
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:10:53.003
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:10:53.156
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:10:54.596
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:11:06.229
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:11:06.734
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:11:06.735
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:11:06.909
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:14:00.627
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:14:00.627
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:14:14.273
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:14:18.561
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:14:18.561
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:14:18.653
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:14:19.734
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:14:31.387
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:14:32.208
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:14:32.208
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:14:32.519
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:15:16.067
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:15:16.067
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:15:31.145
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:15:31.146
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:15:48.391
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:15:48.391
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:16:10.074
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:16:10.074
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:16:14.259
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:16:20.900
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:16:20.900
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:16:20.975
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:16:22.045
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:16:33.222
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:16:36.569
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:16:36.569
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:16:36.582
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:17:04.957
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:17:04.957
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:17:23.833
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:17:34.028
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:17:34.028
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:17:34.058
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:17:35.227
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:17:46.426
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:17:48.140
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:17:48.140
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:17:48.171
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:18:24.711
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:18:24.711
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:18:29.442
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:18:38.773
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:18:38.773
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:18:38.863
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:18:39.924
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:18:50.392
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:18:54.189
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:18:54.189
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:18:54.292
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:19:48.033
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:19:58.048
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:19:58.048
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:19:58.137
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:19:59.220
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:20:10.958
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:20:13.693
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:20:13.693
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:20:13.713
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:20:45.743
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:20:45.743
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:20:48.400
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:20:55.216
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:20:55.216
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:20:55.302
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:20:56.385
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:21:07.456
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:21:08.078
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:21:08.078
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:21:08.091
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:21:44.503
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:21:44.503
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:21:47.414
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:21:54.060
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:21:54.060
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:21:54.162
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:21:55.257
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:22:06.876
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:22:07.765
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:22:07.765
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:22:07.877
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:22:35.016
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:22:53.350
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:22:53.350
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:22:53.412
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:22:54.475
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:23:06.242
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:23:06.961
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:23:06.961
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:23:07.118
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:25:46.679
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:25:46.679
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:27:31.940
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:31:38.763
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:31:38.763
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:31:38.815
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:31:39.988
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:31:51.935
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:32:26.338
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:32:26.338
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:32:26.994
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:32:26.994
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:32:27.047
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:34:18.465
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:34:18.465
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:35:07.498
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:35:07.498
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:35:19.087
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:35:19.087
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:35:21.949
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:35:39.978
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:35:39.978
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:35:40.008
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:35:41.175
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:35:54.486
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:35:55.524
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:35:55.524
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:35:55.534
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:36:52.419
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:36:59.342
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:36:59.342
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:36:59.423
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:37:00.480
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:37:12.437
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:37:13.817
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:37:13.817
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:37:13.834
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:43:57.118
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:43:57.118
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:44:34.064
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:44:34.064
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:46:00.708
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:46:00.708
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:48:36.000
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:48:36.000
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:49:09.724
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:49:09.725
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:49:41.357
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:49:41.357
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:50:21.427
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:50:32.607
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:50:32.607
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:50:32.651
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:50:33.812
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:50:45.082
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:50:46.234
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:50:46.234
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:50:46.330
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:51:58.723
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:52:05.833
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:52:05.834
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:52:05.861
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:52:07.027
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:52:18.226
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:52:19.514
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:52:19.514
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:52:19.615
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:52:48.174
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:52:48.174
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:53:01.985
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:53:01.985
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:53:06.161
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:53:06.161
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:53:06.485
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:53:15.112
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:53:15.112
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:53:15.201
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:53:16.292
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:53:29.779
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:53:30.541
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:53:30.541
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:53:30.604
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:55:28.341
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:55:28.341
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:55:42.444
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:55:42.444
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:55:47.888
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:56:02.577
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:56:02.577
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:56:02.638
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:56:03.867
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:56:16.251
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:56:22.289
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:56:22.289
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:56:22.316
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-20 19:56:41.224
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:56:55.288
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:56:55.288
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-20 19:56:55.351
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-20 19:56:56.436
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-20 19:57:07.347
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-20 19:57:08.174
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-20 19:57:08.174
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-20 19:57:08.269
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 10:42:17.309
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 10:42:17.309
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 10:42:17.500
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 10:42:19.359
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 10:42:30.505
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 10:42:34.911
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 10:42:34.911
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 10:42:35.117
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 10:45:02.966
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 10:45:02.966
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 10:45:03.452
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 10:45:03.452
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 10:45:03.466
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 10:46:26.339
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 10:46:26.339
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 11:07:16.897
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 11:07:23.628
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 11:07:23.628
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 11:07:23.668
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 11:07:24.748
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 11:07:36.715
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 11:07:37.866
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 11:07:37.868
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 11:07:37.961
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 11:07:41.291
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-23 11:07:59.998
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:21:00.020
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:21:00.020
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:21:00.328
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:21:01.692
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:21:15.496
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 15:21:33.862
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:21:46.169
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:21:46.169
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:21:46.403
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:21:47.753
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:22:10.108
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:22:10.949
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:22:10.949
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 15:22:10.970
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 15:22:14.867
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:22:23.480
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:22:23.480
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:22:23.629
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:22:24.737
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-23 15:22:31.100
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:22:35.351
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:22:37.508
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:22:37.508
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 15:22:37.827
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 15:43:53.712
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:44:32.073
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:44:32.073
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:44:32.339
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:44:33.614
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:44:48.976
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:44:49.704
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:44:49.704
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 15:44:49.717
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:48:55.721
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:48:55.721
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:51:48.047
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:51:48.047
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:52:13.429
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:52:13.429
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:54:04.469
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:54:04.469
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:54:19.640
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:54:19.641
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 15:54:35.146
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:55:23.451
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:55:23.451
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:55:23.525
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:55:24.636
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:55:36.279
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:55:37.174
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:55:37.174
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 15:55:37.794
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 15:55:41.570
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-23 15:55:57.820
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:55:58.825
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:55:58.825
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 15:55:58.894
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 15:56:00.021
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 15:56:10.491
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:56:13.884
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:56:13.885
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 15:56:14.456
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:58:08.555
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:58:08.555
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 15:59:49.596
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 15:59:49.596
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:02:15.794
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:02:15.795
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 16:02:16.099
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 16:02:18.104
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 16:02:29.185
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:02:31.124
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:02:31.124
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 16:02:31.147
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:03:27.400
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:03:27.400
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 16:03:38.056
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:04:02.871
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:04:02.871
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 16:04:02.934
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 16:04:04.039
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 16:04:15.066
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:04:15.819
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:04:15.821
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 16:04:15.837
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:06:23.221
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:06:23.221
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 16:08:09.003
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:08:09.295
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:08:09.295
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:08:50.666
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:08:50.666
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 16:08:50.745
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 16:08:52.279
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 16:09:03.594
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:09:04.284
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:09:04.284
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 16:09:04.296
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:12:15.174
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:12:15.174
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:15:23.769
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:15:23.769
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:18:08.736
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:18:08.736
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:19:09.098
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:19:09.098
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 16:19:16.772
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:19:36.052
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:19:36.052
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 16:19:36.095
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 16:19:37.196
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 16:19:49.209
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 16:19:50.153
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 16:19:50.154
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 16:19:50.183
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 18:49:34.935
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 18:49:48.634
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 18:49:48.635
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 18:49:48.674
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 18:49:49.727
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 18:50:01.338
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 18:50:02.053
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 18:50:02.053
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 18:50:02.066
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 19:19:10.279
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:19:55.359
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:19:55.359
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 19:19:55.394
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 19:19:56.566
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 19:20:08.138
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:20:09.197
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:20:09.197
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 19:20:09.341
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:25:02.515
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:25:02.515
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:25:22.913
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:25:22.913
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 19:25:39.396
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:25:52.664
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:25:52.664
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 19:25:52.705
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 19:25:53.779
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 19:26:04.852
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:26:05.780
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:26:05.780
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 19:26:05.795
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:27:22.512
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:27:22.512
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 19:27:22.833
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:27:44.775
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:27:44.775
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 19:27:44.804
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 19:27:45.898
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 19:27:56.761
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:27:57.738
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:27:57.738
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 19:27:57.754
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 19:29:02.441
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 19:29:02.441
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 19:29:06.751
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 20:09:15.419
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 20:09:15.419
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-11-23 20:09:15.471
+!MESSAGE The server "WildFly  8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_45 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-11-23 20:09:16.554
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-11-23 20:09:30.375
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-11-23 20:09:33.240
+!MESSAGE Full publish failed for module TrainingManagementProject
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2015-11-23 20:09:33.240
+!MESSAGE Error reading file D:\canvas js\source\canvasjs.js
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-11-23 20:09:33.274
+!MESSAGE Module TrainingManagementProject on WildFly  8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-11-23 20:09:45.860
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-11-23 20:09:53.289
+!MESSAGE Module TrainingManagementProject on WildFly  8.x still not ready to be shown in browser. Aborting delay.

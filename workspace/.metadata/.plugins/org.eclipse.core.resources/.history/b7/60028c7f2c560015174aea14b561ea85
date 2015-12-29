@@ -1,0 +1,35 @@
+package banking;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Please enter your choice: 1.Add 2.Show");
+		Customer cust1=new Customer();
+		cust1.addBani();
+		cust1.showBani();
+	}
+
+}
+
+class Customer{
+	private int accNo;
+	private String name;
+	Scanner sc= new Scanner(System.in);
+	public void addBani(){
+		System.out.println("Please enter your good name: ");
+		name=sc.next();
+		//System.out.println();
+		System.out.println("Please enter your account number: ");
+		accNo=sc.nextInt();
+	
+	}
+	
+	public void showBani(){
+		System.out.println("Name: "+name);
+		System.out.println("Account Number: "+accNo);
+
+	}
+}

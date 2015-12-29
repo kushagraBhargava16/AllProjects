@@ -1,0 +1,7 @@
+@CHARSET "ISO-8859-1";
+#templateBody{
+	height: 400px;
+	background-color: black;
+	border: 1px;
+	color:blue;
+}
